@@ -1,0 +1,1 @@
+# kibireha-editorconfig
