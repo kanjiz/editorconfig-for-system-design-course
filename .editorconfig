@@ -1,0 +1,12 @@
+root = true
+
+# 全てのファイルに適用される設定
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+# ファイルの最終行に改行を挿入する
+insert_final_newline = true
+# 行末の空白をトリムする
+trim_trailing_whitespace = true
