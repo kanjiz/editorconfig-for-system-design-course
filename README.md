@@ -1,1 +1,1 @@
-# kibireha-editorconfig
+システム設計・管理コースの訓練で使用する .editorconfig ファイルです。
