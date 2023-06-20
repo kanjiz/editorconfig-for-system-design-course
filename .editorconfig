@@ -10,3 +10,10 @@ end_of_line = lf
 insert_final_newline = true
 # 行末の空白をトリムする
 trim_trailing_whitespace = true
+
+# マークダウンファイルに適用される設定
+[*.md]
+# インデントサイズを4に変更する
+indent_size = 4
+# 行末の空白をトリムしないように設定する
+trim_trailing_whitespace = false
